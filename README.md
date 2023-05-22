@@ -1,3 +1,5 @@
+<h3>Link do projeto na Vercel: https://cine-tag-ivory.vercel.app/</h3>
+
 <h2>Iniciar o projeto</h2>
 
 <p>Após baixar o projeto, abra o terminal e digite npm i para instalar as dependências do projeto. Após a instalação, digite npm run dev no terminal para iniciar o servidor de desenvolvimento. Neste projeto foi utilizado o Vite como ferramenta de build, tornando a inicialização do servidor mais rápida e eficiente do que o método tradicional utilizando o npm start.
